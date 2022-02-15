@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "147403041013",
+    "project_id": "true-meet-3ceb7",
+    "storage_bucket": "true-meet-3ceb7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147403041013:android:39bb48076ca4978a9cbdbc",
+        "android_client_info": {
+          "package_name": "com.example.truemeet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147403041013-gu2fmct88fishqgs984ducfrdisjj7r5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvu5FgvPFn8n-ezbBoaEHnhPfmd1M7jrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147403041013-gu2fmct88fishqgs984ducfrdisjj7r5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
