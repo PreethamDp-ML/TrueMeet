@@ -6,6 +6,8 @@ Frontend : xml <br/>
 Backend : java <br/>
 API : jitsi
 
+# Screenshots
+
 # -----Splash screen----- | -----Login screen-----
 ![Screenshot 2022-04-03 at 12 20 22 AM](https://user-images.githubusercontent.com/87472413/161399970-dfc1379d-62d4-4bd2-9b4b-fce059769275.png) | ![Screenshot 2022-04-03 at 12 20 28 AM](https://user-images.githubusercontent.com/87472413/161399977-c4537c61-dcad-4ae6-a663-bfc5e3bcb348.png)
 
