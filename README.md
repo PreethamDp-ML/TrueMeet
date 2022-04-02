@@ -16,7 +16,4 @@ API : jitsi
 ![Screenshot 2022-04-03 at 12 56 15 AM](https://user-images.githubusercontent.com/87472413/161400121-54730f6a-a897-47ef-9c72-9660f34eee10.png) | ![Screenshot 2022-04-03 at 12 57 40 AM](https://user-images.githubusercontent.com/87472413/161400127-d0b5c675-93de-485a-871e-1991c521236c.png)
 
 # Featues : Inviting, Live streaming, Messaging, Recording and many more.
-
-![Screenshot 2022-04-03 at 1 05 18 AM](https://user-images.githubusercontent.com/87472413/161400217-0ba1018c-1f3e-4b11-bb8e-036a026a2adf.png) | 
-![Screenshot 2022-04-03 at 1 04 10 AM](https://user-images.githubusercontent.com/87472413/161400224-3cc734db-8dbf-48a2-9826-377457bc1243.png) |
-![Screenshot 2022-04-03 at 1 05 53 AM](https://user-images.githubusercontent.com/87472413/161400226-e5d30b94-c2d5-4aeb-8537-bd240e7d42dc.png)
+![Screenshot 2022-04-03 at 1 05 18 AM](https://user-images.githubusercontent.com/87472413/161400217-0ba1018c-1f3e-4b11-bb8e-036a026a2adf.png) | ![Screenshot 2022-04-03 at 1 04 10 AM](https://user-images.githubusercontent.com/87472413/161400224-3cc734db-8dbf-48a2-9826-377457bc1243.png) | ![Screenshot 2022-04-03 at 1 05 53 AM](https://user-images.githubusercontent.com/87472413/161400226-e5d30b94-c2d5-4aeb-8537-bd240e7d42dc.png)
